@@ -1,0 +1,30 @@
+/* 
+(1.)External CSS
+*/
+
+body {
+    background-color: #EAF6F6;
+}
+
+hr{
+    /* background-color: red; */
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 7px;
+    height: 0px;
+    width: 4%;
+}
+
+h1{
+    color: #66BFBF;
+}
+
+h3{
+    color: #035397;
+}
+
+/* 
+The other two styles of CSS are inline css and Internal CSS
+Dominant:: Inline css >> Internal css >> External css
+*/
